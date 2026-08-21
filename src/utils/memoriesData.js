@@ -168,16 +168,6 @@ export const rawMemoriesData = [
     "tag": "Best Memories 💫"
   },
   {
-    "id": 17,
-    "filename": "IMG-20241004-WA0000.jpg",
-    "type": "image",
-    "dateStr": "2024-10-03",
-    "dateFormatted": "October 4, 2024",
-    "timestamp": 1727971200000,
-    "caption": "Forever grateful for this day and for having you in my life 🙏❤️",
-    "tag": "Love & Laughter 💕"
-  },
-  {
     "id": 18,
     "filename": "IMG-20241004-WA0001(1).jpg",
     "type": "image",
@@ -366,16 +356,6 @@ export const rawMemoriesData = [
     "timestamp": 1734364800000,
     "caption": "Soft laughter, warm hugs, and sweet memories with you ☕💖",
     "tag": "Together Always 🌸"
-  },
-  {
-    "id": 37,
-    "filename": "FB_IMG_1734694247411.jpg",
-    "type": "image",
-    "dateStr": "2024-12-20",
-    "dateFormatted": "December 20, 2024",
-    "timestamp": 1734694247411,
-    "caption": "Forever grateful for this day and for having you in my life 🙏❤️",
-    "tag": "Sweet Smiles 😊"
   },
   {
     "id": 38,
@@ -568,26 +548,6 @@ export const rawMemoriesData = [
     "tag": "Golden Hour 🌅"
   },
   {
-    "id": 57,
-    "filename": "IMG-20250410-WA0004.jpeg",
-    "type": "image",
-    "dateStr": "2025-04-09",
-    "dateFormatted": "April 10, 2025",
-    "timestamp": 1744214400000,
-    "caption": "Forever grateful for this day and for having you in my life 🙏❤️",
-    "tag": "Special Outing 🍷"
-  },
-  {
-    "id": 58,
-    "filename": "Screenshot_20250410-124123.png",
-    "type": "image",
-    "dateStr": "2025-04-09",
-    "dateFormatted": "April 10, 2025",
-    "timestamp": 1744214400000,
-    "caption": "A priceless moment I wish I could replay over and over 🎞️💕",
-    "tag": "Warm Hugs 💖"
-  },
-  {
     "id": 59,
     "filename": "IMG-20250412-WA0012.jpg",
     "type": "image",
@@ -766,16 +726,6 @@ export const rawMemoriesData = [
     "timestamp": 1756179594696,
     "caption": "Soft laughter, warm hugs, and sweet memories with you ☕💖",
     "tag": "Warm Hugs 💖"
-  },
-  {
-    "id": 77,
-    "filename": "IMG-20251010-WA0005.jpg",
-    "type": "image",
-    "dateStr": "2025-10-09",
-    "dateFormatted": "October 10, 2025",
-    "timestamp": 1760025600000,
-    "caption": "Forever grateful for this day and for having you in my life 🙏❤️",
-    "tag": "Cozy Days ☕"
   },
   {
     "id": 78,
