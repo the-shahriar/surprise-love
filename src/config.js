@@ -9,10 +9,10 @@ import { localPlaylist } from './utils/soundsData';
 export const config = {
   // 1. UNLOCK SCREEN GATE
   unlock: {
-    question: "Where did we have our first date?",
+    question: "Where did we first meet?",
     // Acceptable answers (case-insensitive & whitespace trimmed)
-    answers: ["starbucks", "starbucks coffee", "coffee shop", "central cafe"],
-    hint: "Think back to that cozy winter evening where we talked for hours...",
+    answers: ["Mirpur", "University", "In a event", "Office", "Mone nai"],
+    hint: "Think back to that fall semester where we first met...",
     shakeDuration: 600, // ms
   },
 
